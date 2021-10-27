@@ -1,7 +1,7 @@
 # TrayNet
 Windows Tray Icon for networking data.
 
-![Screenshot](https://raw.githubusercontent.com/moriczgergo/TrayNet/master/img/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/mogery/TrayNet/master/img/screenshot.png)
 
 ## Installation
 
